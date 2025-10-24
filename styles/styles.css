@@ -17,7 +17,7 @@
   list-style: circle;
 }
 
-.first-child {
+.nounderline-child {
     list-style: none;
 }
 
@@ -305,6 +305,7 @@
 .footer-address {
   display: flex;
   flex-direction: column;
+  font-style: normal;
 }
 
 .footer-menu {
